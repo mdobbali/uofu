@@ -1,0 +1,1 @@
+select * from this_table
